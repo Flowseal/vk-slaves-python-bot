@@ -10,7 +10,7 @@ from config import settings # config.py
 # some constants to be used later
 
 token = settings['TOKEN']
-local_id = settings['ID']
+local_id = settings['251461069']
 
 steal = settings['STEAL_TOP']
 multi_steal = settings['MULTI_STEAL']
