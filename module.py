@@ -43,6 +43,7 @@ class Slaves:
             headers={
                 "authorization": "Bearer " + self.bearer,
                 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36',
+                'origin': 'https://prod-app7794757-c1ffb3285f12.pages-ac.vk-apps.com'
             },
         ).json()
 
